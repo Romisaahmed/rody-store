@@ -21,9 +21,13 @@ Luxury fashion e-commerce frontend built with HTML, CSS and JavaScript.
 ## Live Demo
 
 
-## Screenshots
+## Preview
 
+### Home Page
+![Home](home.png)
 
+### Products
+![Products](products.png)
 
 ## Author
 
