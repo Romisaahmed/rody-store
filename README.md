@@ -19,7 +19,7 @@ Luxury fashion e-commerce frontend built with HTML, CSS and JavaScript.
 - Font Awesome
 
 ## Live Demo
-
+https://romisaahmed.github.io/rody-store/
 
 ## Preview
 
