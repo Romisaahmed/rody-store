@@ -29,6 +29,10 @@ Luxury fashion e-commerce frontend built with HTML, CSS and JavaScript.
 ### Products
 ![Products](products.png)
 
+## Demo Video
+
+![video](Rody Store .mp4)
+
 ## Author
 
 Developed by   Romisaa Ahmed
